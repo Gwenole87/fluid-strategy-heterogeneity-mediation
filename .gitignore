@@ -1,0 +1,8 @@
+data/
+output/
+output_hte/
+_bart_work/
+_bart_chern/
+.ipynb_checkpoints/
+__pycache__/
+.Rhistory
